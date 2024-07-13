@@ -1,0 +1,24 @@
+header{
+    background-color: #812a2a;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    h1{
+        color: rgb(255, 255, 255);
+    }
+    li{
+        list-style: none;
+        a{
+            text-decoration: none;
+            color: #cc0000;
+            font-weight: bold;
+        }
+    }
+}
+#submenu{
+    color: #fff;
+    text-align: center;
+    display: none;
+}
